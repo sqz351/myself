@@ -1,1 +1,1 @@
-# myself
+#stock_analysis
